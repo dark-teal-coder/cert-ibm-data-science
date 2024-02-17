@@ -1,10 +1,10 @@
 <!-- README file for online courses -->
 
-# SoloLearn 
+# SoloLearn Introduction to HTML
 
 ## Repository Description
 
-This repository contains the code for the online course *"Introduction to HTML"* provided by [SoloLearn](https://www.sololearn.com) and course notes in .md format. Users have to pay Bits or subscribe to become a pro-user in order to unlock practices. But you can find practice problems and solutions for free here.
+This repository contains the code for the online course *"Introduction to HTML"* provided by [SoloLearn](https://www.sololearn.com) and course notes in .md format. Users have to pay Bits or subscribe to become a pro-user to unlock practices. But you can find practice problems and solutions for free here.
 
 ## Course Information
 
