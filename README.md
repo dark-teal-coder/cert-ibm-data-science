@@ -26,3 +26,7 @@ Courses
    - 12 hours
 12. Data Scientist Career Guide and Interview Preparation
    - 9 hours
+
+&nbsp;
+
+*1st Completion Date: Xxx 00, 0000*&emsp;
